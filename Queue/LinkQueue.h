@@ -1,8 +1,0 @@
-//
-// Created by HP on 2021/9/22.
-//
-// 循环队列的定义
-#ifndef DATASTRUCTURE_LINKQUEUE_H
-#define DATASTRUCTURE_LINKQUEUE_H
-
-#endif //DATASTRUCTURE_LINKQUEUE_H
